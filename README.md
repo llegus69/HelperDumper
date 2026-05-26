@@ -25,6 +25,9 @@ El addon cuenta con un sistema de localización nativa integrada. Dispone de un 
 
 *Nota: El addon guarda tu preferencia de idioma automáticamente para tus próximas sesiones de juego.*
 
+<img width="1366" height="705" alt="Wow 2026-05-26 13-12-27" src="https://github.com/user-attachments/assets/59bf2466-92fb-47f1-8ce1-4d4eed5938c1" />
+
+
 ⚠️ Notas de Aviso Importantes (Léase antes de usar)
 Debido a la arquitectura de seguridad de World of Warcraft y de los emuladores, es fundamental entender el comportamiento del addon:
 
