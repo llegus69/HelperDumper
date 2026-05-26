@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: HelperDumper
+## Creador: Lleguito
+## Notes: Gestiona el guardado y carga de personajes
+## SavedVariables: HelperDumperDB
+HelperDumper.lua
